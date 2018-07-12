@@ -1,0 +1,13 @@
+{
+  "name": "literary-devices-pdf",
+  "version": "1.0.0",
+  "description": "Literture Reference from literaydevices.net",
+  "main": "main.js",
+  "repository": "https://oknoorap@bitbucket.org/oknoorap/literary-devices-pdf.git",
+  "author": "Ribhararnus Pracutian <oknoorap@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "scissors": "^0.2.5"
+  }
+}
