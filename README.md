@@ -1,5 +1,5 @@
 # LiteraryDevices.net Document
-WARNING: This repo maybe has an illegal act to scraping [https://literarydevices.net](literarydevices.net)
+WARNING: This repo maybe has an illegal act to scraping [https://literarydevices.net](https://literarydevices.net)
 
 ## Documents
 You can download documents in Release tab above.
