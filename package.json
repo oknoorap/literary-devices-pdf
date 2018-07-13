@@ -8,6 +8,10 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "scissors": "^0.2.5"
+    "scissors": "^0.2.5",
+    "signale": "^1.2.1"
+  },
+  "scripts": {
+    "merge": "node index.js"
   }
 }
